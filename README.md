@@ -30,11 +30,11 @@ The full write-up with equations, tables and plots is in `FinalReport.docx` / `F
 
 Please watch them in this order. It follows the order of the tasks in the notebook.
 
-1. `Video-1 Rohith.mp4`: model setup, walls, forces, energies and the Task 1 checks
-2. `Video-2 Purna.mp4`: animation and the Euler vs Verlet timestep study
-3. `Video-3 Krishna.mp4`: dissipation/relaxation and float32 vs float64
-4. `Video-4 Praveen.mp4`: Python vs NumPy vs C timings and the memory study
-5. `Video-5 Sowbarnika.mp4`: cell list, final recommendation and wrap-up
+1. `ES24TECH11026_FOSC_PART1`: model setup, walls, forces, energies and the Task 1 checks
+2. `ES24TECH11014_FOSC_PART2`: animation and the Euler vs Verlet timestep study
+3. `ES24TECH11023_FOSC_PART3`: dissipation/relaxation and float32 vs float64
+4. `MS26MTECH14002_FOSC_PART4`: Python vs NumPy vs C timings and the memory study
+5. `MS26MTECH14001_FOSC_PART5`: cell list, final recommendation and wrap-up
 
 ## Roles and responsibilities
 
