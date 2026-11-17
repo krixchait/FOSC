@@ -48,7 +48,7 @@ Please watch them in this order. It follows the order of the tasks in the notebo
 
 - **Claude (Anthropic):** used for help with code development and debugging.
 
-The prompts and the recorded AI sessions are included with the submission (see the file list below). We checked all the results in the report ourselves by running the notebook.
+The prompts we used are listed in `AI_Prompts.md`. We checked all the results in the report ourselves by running the notebook.
 
 ---
 
@@ -62,7 +62,7 @@ The prompts and the recorded AI sessions are included with the submission (see t
 | `FinalReport.docx`, `FinalReport.pdf` | Project report with algorithms, implementation details, results, time snapshots and plots |
 | `particle_animation.gif` | Animation of the 12 particles, produced by the notebook |
 | `force_code.c`, `force_code.so` | C force routine; the notebook writes and compiles this itself during Task 6 |
-| AI prompts / sessions | Prompts and recorded sessions with Claude |
+| `AI_Prompts.md` | The prompts we gave Claude, with a note on what each one produced |
 
 We kept everything in one notebook instead of separate scripts. That way the testing code sits right after the function it tests, and each plot sits next to the code that makes it.
 
